@@ -1,0 +1,26 @@
+.vs/
+
+# Visual Studio user/local files
+*.user
+*.suo
+
+# Build outputs
+x64/
+Debug/
+Release/
+3drpg/x64/
+3drpg/Debug/
+3drpg/Release/
+3drpg/Log.txt
+
+# Intermediate files
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipdb
+*.iobj
+*.tlog
+*.lastbuildstate
+*.recipe
+*.log

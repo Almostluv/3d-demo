@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{d9e3997a-0cd4-4871-bbed-e2dbfd2767e6}</ProjectGuid>
+    <RootNamespace>My3drpg</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>..\dxlib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <AdditionalOptions>/utf-8 /wd4828 /wd4010 %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>..\dxlib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>..\dxlib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <AdditionalOptions>/utf-8 /wd4828 /wd4010 %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>..\dxlib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>..\dxlib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <AdditionalOptions>/utf-8 /wd4828 /wd4010 %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>..\dxlib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>..\dxlib;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <AdditionalOptions>/utf-8 /wd4828 /wd4010 %(AdditionalOptions)</AdditionalOptions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>..\dxlib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="attack_effect.cpp" />
+    <ClCompile Include="attack_effect_dx11.cpp" />
+    <ClCompile Include="attack_effect_dxlib.cpp" />
+    <ClCompile Include="attack_effect_spawn.cpp" />
+    <ClCompile Include="animator.cpp" />
+    <ClCompile Include="audio_manager.cpp" />
+    <ClCompile Include="camera.cpp" />
+    <ClCompile Include="char_base.cpp" />
+    <ClCompile Include="chara_select_scene.cpp" />
+    <ClCompile Include="mutant_scene_combat.cpp" />
+    <ClCompile Include="debug_draw.cpp" />
+    <ClCompile Include="mutant_scene_debug.cpp" />
+    <ClCompile Include="vampire_scene.cpp" />
+    <ClCompile Include="vampire_scene_combat.cpp" />
+    <ClCompile Include="vampire_scene_intro.cpp" />
+    <ClCompile Include="vampire_scene_marker.cpp" />
+    <ClCompile Include="vampire_scene_pause.cpp" />
+    <ClCompile Include="dx11_context.cpp" />
+    <ClCompile Include="enemy.cpp" />
+    <ClCompile Include="enemy_ai_controller.cpp" />
+    <ClCompile Include="enemy_attack.cpp" />
+    <ClCompile Include="enemy_attack_range_marker.cpp" />
+    <ClCompile Include="enemy_collision.cpp" />
+    <ClCompile Include="enemy_jump_attack.cpp" />
+    <ClCompile Include="mutant_scene_enemy.cpp" />
+    <ClCompile Include="enemy_reaction.cpp" />
+    <ClCompile Include="mutant_scene_ui.cpp" />
+    <ClCompile Include="game_manager.cpp" />
+    <ClCompile Include="game_object.cpp" />
+    <ClCompile Include="game_settings.cpp" />
+    <ClCompile Include="input_manager.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="loading_scene.cpp" />
+    <ClCompile Include="magic_projectile_enemy.cpp" />
+    <ClCompile Include="player_character_resource.cpp" />
+    <ClCompile Include="player_combat.cpp" />
+    <ClCompile Include="player.cpp" />
+    <ClCompile Include="player_movement.cpp" />
+    <ClCompile Include="mutant_scene_environment.cpp" />
+    <ClCompile Include="mutant_scene.cpp" />
+    <ClCompile Include="mutant_scene_marker.cpp" />
+    <ClCompile Include="mutant_scene_pause.cpp" />
+    <ClCompile Include="resource_manager.cpp" />
+    <ClCompile Include="result_scene.cpp" />
+    <ClCompile Include="scene_manager.cpp" />
+    <ClCompile Include="setting_scene.cpp" />
+    <ClCompile Include="setting_scene_binding.cpp" />
+    <ClCompile Include="setting_scene_draw.cpp" />
+    <ClCompile Include="setting_scene_navigation.cpp" />
+    <ClCompile Include="story_state.cpp" />
+    <ClCompile Include="title_scene.cpp" />
+    <ClCompile Include="threat_component.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="attack_effect.h" />
+    <ClInclude Include="attack_effect_internal.h" />
+    <ClInclude Include="animator.h" />
+    <ClInclude Include="audio_manager.h" />
+    <ClInclude Include="camera.h" />
+    <ClInclude Include="char_base.h" />
+    <ClInclude Include="chara_select_scene.h" />
+    <ClInclude Include="combat_target.h" />
+    <ClInclude Include="debug_draw.h" />
+    <ClInclude Include="vampire_scene.h" />
+    <ClInclude Include="dx11_context.h" />
+    <ClInclude Include="enemy.h" />
+    <ClInclude Include="enemy_attack_range_marker.h" />
+    <ClInclude Include="enemy_param.h" />
+    <ClInclude Include="enemy_state.h" />
+    <ClInclude Include="game_config.h" />
+    <ClInclude Include="game_object.h" />
+    <ClInclude Include="game_settings.h" />
+    <ClInclude Include="game_manager.h" />
+    <ClInclude Include="loading_scene.h" />
+    <ClInclude Include="input_manager.h" />
+    <ClInclude Include="manager.h" />
+    <ClInclude Include="magic_projectile_enemy.h" />
+    <ClInclude Include="model_resource.h" />
+    <ClInclude Include="player.h" />
+    <ClInclude Include="player_character_resource.h" />
+    <ClInclude Include="player_character_type.h" />
+    <ClInclude Include="player_input.h" />
+    <ClInclude Include="player_param.h" />
+    <ClInclude Include="player_state.h" />
+    <ClInclude Include="mutant_scene.h" />
+    <ClInclude Include="resource_manager.h" />
+    <ClInclude Include="result_scene.h" />
+    <ClInclude Include="scene_base.h" />
+    <ClInclude Include="scene_manager.h" />
+    <ClInclude Include="setting_scene.h" />
+    <ClInclude Include="setting_scene_internal.h" />
+    <ClInclude Include="sound_resource.h" />
+    <ClInclude Include="story_state.h" />
+    <ClInclude Include="title_scene.h" />
+    <ClInclude Include="threat_component.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\Shader\attack_effect_dx11_ps.cso" />
+    <None Include="Resource\Shader\attack_effect_dx11_ps.hlsl" />
+    <None Include="Resource\Shader\attack_effect_dx11_vs.cso" />
+    <None Include="Resource\Shader\attack_effect_dx11_vs.hlsl" />
+    <None Include="Resource\Shader\attack_effect_ps.hlsl" />
+    <None Include="Resource\Shader\attack_effect_ps.pso" />
+    <None Include="Resource\Shader\health_bar_ps.cso" />
+    <None Include="Resource\Shader\health_bar_ps.hlsl" />
+    <None Include="Resource\Shader\health_bar_vs.cso" />
+    <None Include="Resource\Shader\health_bar_vs.hlsl" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

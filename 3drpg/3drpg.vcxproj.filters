@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソースファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ソースファイル\アニメーション">
+      <UniqueIdentifier>{0F84D984-9E21-4F68-A0F2-1937B2BB276C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\キャラクター">
+      <UniqueIdentifier>{85B1AB0A-19F8-47E1-B284-D7AA728B918D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\戦闘">
+      <UniqueIdentifier>{1347ED2A-F2C0-4DA4-929C-F5C86E37119E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\マネージャー">
+      <UniqueIdentifier>{F53DB550-F390-411C-B890-A384957EB4AF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\描画">
+      <UniqueIdentifier>{3C5A32B6-A37A-458D-BE34-E6E3FBE9393B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\リソース">
+      <UniqueIdentifier>{8B11F0DB-D05E-4F84-A796-44741604DCA0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソースファイル\シーン">
+      <UniqueIdentifier>{951731C4-E79B-43B3-B6C2-1658C164B6E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダーファイル">
+      <UniqueIdentifier>{93995380-89BD-4B04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="ヘッダーファイル\アニメーション">
+      <UniqueIdentifier>{B2C0D6B1-39E5-4E34-B2BA-3757E38F523D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダーファイル\キャラクター">
+      <UniqueIdentifier>{758D267A-AACA-440B-8E7E-70E0C8C2A53B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダーファイル\戦闘">
+      <UniqueIdentifier>{5F9C1DA4-6FB0-4E78-9B9F-B2E8E66CF50F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダーファイル\マネージャー">
+      <UniqueIdentifier>{C59FF77C-AA04-4768-A9E3-3785FB8BA05D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダーファイル\描画">
+      <UniqueIdentifier>{1EB21988-C0AE-4B1B-A1BB-2F11EA21A9EA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダーファイル\リソース">
+      <UniqueIdentifier>{67D4214B-FDEB-4627-BC2C-90C36F25CF17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダーファイル\シーン">
+      <UniqueIdentifier>{BB99CECE-BCC0-40D6-B878-DCC0CF976897}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="リソースファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4C08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="リソースファイル\シェーダー">
+      <UniqueIdentifier>{7C1F4DC8-7816-4A90-9070-FD3C15FF9AE3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="attack_effect.cpp">
+      <Filter>ソースファイル\戦闘</Filter>
+    </ClCompile>
+    <ClCompile Include="attack_effect_dx11.cpp">
+      <Filter>ソースファイル\戦闘</Filter>
+    </ClCompile>
+    <ClCompile Include="attack_effect_dxlib.cpp">
+      <Filter>ソースファイル\戦闘</Filter>
+    </ClCompile>
+    <ClCompile Include="attack_effect_spawn.cpp">
+      <Filter>ソースファイル\戦闘</Filter>
+    </ClCompile>
+    <ClCompile Include="animator.cpp">
+      <Filter>ソースファイル\アニメーション</Filter>
+    </ClCompile>
+    <ClCompile Include="audio_manager.cpp">
+      <Filter>ソースファイル\マネージャー</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>ソースファイル\描画</Filter>
+    </ClCompile>
+    <ClCompile Include="char_base.cpp">
+      <Filter>ソースファイル\キャラクター</Filter>
+    </ClCompile>
+    <ClCompile Include="chara_select_scene.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="mutant_scene_combat.cpp">
+      <Filter>ソースファイル\戦闘</Filter>
+    </ClCompile>
+    <ClCompile Include="debug_draw.cpp">
+      <Filter>ソースファイル\描画</Filter>
+    </ClCompile>
+    <ClCompile Include="mutant_scene_debug.cpp">
+      <Filter>ソースファイル\描画</Filter>
+    </ClCompile>
+    <ClCompile Include="vampire_scene.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="vampire_scene_combat.cpp">
+      <Filter>ソースファイル\戦闘</Filter>
+    </ClCompile>
+    <ClCompile Include="vampire_scene_intro.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="vampire_scene_marker.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="vampire_scene_pause.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="dx11_context.cpp">
+      <Filter>ソースファイル\描画</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy.cpp">
+      <Filter>ソースファイル\キャラクター</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy_ai_controller.cpp">
+      <Filter>ソースファイル\キャラクター</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy_attack.cpp">
+      <Filter>ソースファイル\戦闘</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy_attack_range_marker.cpp">
+      <Filter>ソースファイル\戦闘</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy_collision.cpp">
+      <Filter>ソースファイル\戦闘</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy_jump_attack.cpp">
+      <Filter>ソースファイル\キャラクター</Filter>
+    </ClCompile>
+    <ClCompile Include="mutant_scene_enemy.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="enemy_reaction.cpp">
+      <Filter>ソースファイル\キャラクター</Filter>
+    </ClCompile>
+    <ClCompile Include="mutant_scene_ui.cpp">
+      <Filter>ソースファイル\描画</Filter>
+    </ClCompile>
+    <ClCompile Include="game_manager.cpp">
+      <Filter>ソースファイル\マネージャー</Filter>
+    </ClCompile>
+    <ClCompile Include="game_object.cpp">
+      <Filter>ソースファイル\キャラクター</Filter>
+    </ClCompile>
+    <ClCompile Include="game_settings.cpp">
+      <Filter>ソースファイル\マネージャー</Filter>
+    </ClCompile>
+    <ClCompile Include="input_manager.cpp">
+      <Filter>ソースファイル\マネージャー</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>ソースファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="loading_scene.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="magic_projectile_enemy.cpp">
+      <Filter>ソースファイル\キャラクター</Filter>
+    </ClCompile>
+    <ClCompile Include="player_character_resource.cpp">
+      <Filter>ソースファイル\リソース</Filter>
+    </ClCompile>
+    <ClCompile Include="player_combat.cpp">
+      <Filter>ソースファイル\戦闘</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>ソースファイル\キャラクター</Filter>
+    </ClCompile>
+    <ClCompile Include="player_movement.cpp">
+      <Filter>ソースファイル\キャラクター</Filter>
+    </ClCompile>
+    <ClCompile Include="mutant_scene_environment.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="mutant_scene.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="mutant_scene_marker.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="mutant_scene_pause.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="resource_manager.cpp">
+      <Filter>ソースファイル\マネージャー</Filter>
+    </ClCompile>
+    <ClCompile Include="result_scene.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="scene_manager.cpp">
+      <Filter>ソースファイル\マネージャー</Filter>
+    </ClCompile>
+    <ClCompile Include="setting_scene.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="setting_scene_binding.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="setting_scene_draw.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="setting_scene_navigation.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="story_state.cpp">
+      <Filter>ソースファイル\マネージャー</Filter>
+    </ClCompile>
+    <ClCompile Include="title_scene.cpp">
+      <Filter>ソースファイル\シーン</Filter>
+    </ClCompile>
+    <ClCompile Include="threat_component.cpp">
+      <Filter>ソースファイル\戦闘</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="attack_effect.h">
+      <Filter>ヘッダーファイル\戦闘</Filter>
+    </ClInclude>
+    <ClInclude Include="attack_effect_internal.h">
+      <Filter>ヘッダーファイル\戦闘</Filter>
+    </ClInclude>
+    <ClInclude Include="animator.h">
+      <Filter>ヘッダーファイル\アニメーション</Filter>
+    </ClInclude>
+    <ClInclude Include="audio_manager.h">
+      <Filter>ヘッダーファイル\マネージャー</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>ヘッダーファイル\描画</Filter>
+    </ClInclude>
+    <ClInclude Include="char_base.h">
+      <Filter>ヘッダーファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="chara_select_scene.h">
+      <Filter>ヘッダーファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="combat_target.h">
+      <Filter>ヘッダーファイル\戦闘</Filter>
+    </ClInclude>
+    <ClInclude Include="debug_draw.h">
+      <Filter>ヘッダーファイル\描画</Filter>
+    </ClInclude>
+    <ClInclude Include="vampire_scene.h">
+      <Filter>ヘッダーファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="dx11_context.h">
+      <Filter>ヘッダーファイル\描画</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy.h">
+      <Filter>ヘッダーファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy_attack_range_marker.h">
+      <Filter>ヘッダーファイル\戦闘</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy_param.h">
+      <Filter>ヘッダーファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="enemy_state.h">
+      <Filter>ヘッダーファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="game_config.h">
+      <Filter>ヘッダーファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="game_object.h">
+      <Filter>ヘッダーファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="game_settings.h">
+      <Filter>ヘッダーファイル\マネージャー</Filter>
+    </ClInclude>
+    <ClInclude Include="game_manager.h">
+      <Filter>ヘッダーファイル\マネージャー</Filter>
+    </ClInclude>
+    <ClInclude Include="loading_scene.h">
+      <Filter>ヘッダーファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="input_manager.h">
+      <Filter>ヘッダーファイル\マネージャー</Filter>
+    </ClInclude>
+    <ClInclude Include="manager.h">
+      <Filter>ヘッダーファイル\マネージャー</Filter>
+    </ClInclude>
+    <ClInclude Include="magic_projectile_enemy.h">
+      <Filter>ヘッダーファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="model_resource.h">
+      <Filter>ヘッダーファイル\リソース</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>ヘッダーファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="player_character_resource.h">
+      <Filter>ヘッダーファイル\リソース</Filter>
+    </ClInclude>
+    <ClInclude Include="player_character_type.h">
+      <Filter>ヘッダーファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="player_input.h">
+      <Filter>ヘッダーファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="player_param.h">
+      <Filter>ヘッダーファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="player_state.h">
+      <Filter>ヘッダーファイル\キャラクター</Filter>
+    </ClInclude>
+    <ClInclude Include="mutant_scene.h">
+      <Filter>ヘッダーファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="resource_manager.h">
+      <Filter>ヘッダーファイル\マネージャー</Filter>
+    </ClInclude>
+    <ClInclude Include="result_scene.h">
+      <Filter>ヘッダーファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="scene_base.h">
+      <Filter>ヘッダーファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="scene_manager.h">
+      <Filter>ヘッダーファイル\マネージャー</Filter>
+    </ClInclude>
+    <ClInclude Include="setting_scene.h">
+      <Filter>ヘッダーファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="setting_scene_internal.h">
+      <Filter>ヘッダーファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="sound_resource.h">
+      <Filter>ヘッダーファイル\リソース</Filter>
+    </ClInclude>
+    <ClInclude Include="story_state.h">
+      <Filter>ヘッダーファイル\マネージャー</Filter>
+    </ClInclude>
+    <ClInclude Include="title_scene.h">
+      <Filter>ヘッダーファイル\シーン</Filter>
+    </ClInclude>
+    <ClInclude Include="threat_component.h">
+      <Filter>ヘッダーファイル\戦闘</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\Shader\attack_effect_dx11_ps.cso">
+      <Filter>リソースファイル\シェーダー</Filter>
+    </None>
+    <None Include="Resource\Shader\attack_effect_dx11_ps.hlsl">
+      <Filter>リソースファイル\シェーダー</Filter>
+    </None>
+    <None Include="Resource\Shader\attack_effect_dx11_vs.cso">
+      <Filter>リソースファイル\シェーダー</Filter>
+    </None>
+    <None Include="Resource\Shader\attack_effect_dx11_vs.hlsl">
+      <Filter>リソースファイル\シェーダー</Filter>
+    </None>
+    <None Include="Resource\Shader\attack_effect_ps.hlsl">
+      <Filter>リソースファイル\シェーダー</Filter>
+    </None>
+    <None Include="Resource\Shader\attack_effect_ps.pso">
+      <Filter>リソースファイル\シェーダー</Filter>
+    </None>
+    <None Include="Resource\Shader\health_bar_ps.cso">
+      <Filter>リソースファイル\シェーダー</Filter>
+    </None>
+    <None Include="Resource\Shader\health_bar_ps.hlsl">
+      <Filter>リソースファイル\シェーダー</Filter>
+    </None>
+    <None Include="Resource\Shader\health_bar_vs.cso">
+      <Filter>リソースファイル\シェーダー</Filter>
+    </None>
+    <None Include="Resource\Shader\health_bar_vs.hlsl">
+      <Filter>リソースファイル\シェーダー</Filter>
+    </None>
+  </ItemGroup>
+</Project>

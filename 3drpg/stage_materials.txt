@@ -1,0 +1,363 @@
+Stage material count: 108
+Stage texture count: 107
+
+[0] name=Material.247 difTex=0 texPath=ArenaForSketchfab.fbm\GeoArena_033.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[1] name=Material.248 difTex=1 texPath=ArenaForSketchfab.fbm\GeoArena_033.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[2] name=Material.015 difTex=2 texPath=ArenaForSketchfab.fbm\GeoArena_022.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[3] name=Material.054 difTex=3 texPath=ArenaForSketchfab.fbm\GeoArena_043.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[4] name=Material.012 difTex=4 texPath=ArenaForSketchfab.fbm\T_GEO_CaveGate_01_NAM.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[5] name=Material.253 difTex=5 texPath=ArenaForSketchfab.fbm\GeoArena_030.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[6] name=Material.077 difTex=6 texPath=ArenaForSketchfab.fbm\GeoArena_04.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[7] name=Material.204 difTex=7 texPath=ArenaForSketchfab.fbm\GeoArena_032.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[8] name=Material.079 difTex=8 texPath=ArenaForSketchfab.fbm\GeoArena_074.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[9] name=Material.068 difTex=9 texPath=ArenaForSketchfab.fbm\GeoArena_045.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[10] name=Material.030 difTex=10 texPath=ArenaForSketchfab.fbm\GeoArena_051.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[11] name=Material.071 difTex=11 texPath=ArenaForSketchfab.fbm\GeoArena_045.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[12] name=Material.013 difTex=12 texPath=ArenaForSketchfab.fbm\GeoArena_065.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[13] name=Material.003 difTex=13 texPath=ArenaForSketchfab.fbm\GeoArena_032.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[14] name=Material.255 difTex=14 texPath=ArenaForSketchfab.fbm\Floor_Cracked_DesatNew.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.82,0.82,0.76,1) emi=(0.14,0.14,0.12,1)
+[15] name=Material.010 difTex=15 texPath=ArenaForSketchfab.fbm\GeoArena_063.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[16] name=Material.016 difTex=16 texPath=ArenaForSketchfab.fbm\GeoArena_065.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[17] name=Material.004 difTex=17 texPath=ArenaForSketchfab.fbm\GeoArena_057.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[18] name=Material.011 difTex=18 texPath=ArenaForSketchfab.fbm\GeoArena_057.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[19] name=Material.257 difTex=19 texPath=ArenaForSketchfab.fbm\GeoArena_032.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[20] name=Material.006 difTex=20 texPath=ArenaForSketchfab.fbm\GeoArena_057.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[21] name=Material.005 difTex=21 texPath=ArenaForSketchfab.fbm\GeoArena_063.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[22] name=Material.050 difTex=22 texPath=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[23] name=Material.002 difTex=23 texPath=ArenaForSketchfab.fbm\GeoArena_074.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[24] name=Material difTex=24 texPath=ArenaForSketchfab.fbm\GeoArena_032.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[25] name=Material.045 difTex=25 texPath=ArenaForSketchfab.fbm\GeoArena_065.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[26] name=Material.206 difTex=26 texPath=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[27] name=Material.018 difTex=27 texPath=ArenaForSketchfab.fbm\GeoArena_032.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[28] name=Material.020 difTex=28 texPath=ArenaForSketchfab.fbm\GeoArena_047.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[29] name=Material.022 difTex=29 texPath=ArenaForSketchfab.fbm\GeoArena_065.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[30] name=Material.063 difTex=30 texPath=ArenaForSketchfab.fbm\GeoArena_045.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[31] name=Material.064 difTex=31 texPath=ArenaForSketchfab.fbm\FACTORY_INTRO1_PC0011out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[32] name=Material.044 difTex=32 texPath=ArenaForSketchfab.fbm\GeoArena_038.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[33] name=Material.166 difTex=33 texPath=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[34] name=Material.081 difTex=34 texPath=ArenaForSketchfab.fbm\GeoArena_033.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[35] name=Material.069 difTex=35 texPath=ArenaForSketchfab.fbm\GeoArena_065.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[36] name=Material.009 difTex=36 texPath=ArenaForSketchfab.fbm\GeoArena_063.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[37] name=Material.046 difTex=37 texPath=ArenaForSketchfab.fbm\GeoArena_057.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[38] name=Material.007 difTex=38 texPath=ArenaForSketchfab.fbm\GeoArena_057.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[39] name=Material.008 difTex=39 texPath=ArenaForSketchfab.fbm\GeoArena_057.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[40] name=Material.047 difTex=40 texPath=ArenaForSketchfab.fbm\RCG_027out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[41] name=Material.029 difTex=41 texPath=ArenaForSketchfab.fbm\RCG_027out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[42] name=Material.202 difTex=42 texPath=ArenaForSketchfab.fbm\GeoArena_065.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[43] name=Material.040 difTex=43 texPath=ArenaForSketchfab.fbm\GeoArena_024.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[44] name=Material.038 difTex=44 texPath=ArenaForSketchfab.fbm\GeoArena_051.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[45] name=Material.036 difTex=45 texPath=ArenaForSketchfab.fbm\GEO_PRGATE_0202.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[46] name=Material.043 difTex=46 texPath=ArenaForSketchfab.fbm\GeoArena_047.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[47] name=Material.041 difTex=47 texPath=ArenaForSketchfab.fbm\GeoArena_047.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[48] name=Material.055 difTex=48 texPath=ArenaForSketchfab.fbm\RCG_027out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[49] name=Material.061 difTex=49 texPath=ArenaForSketchfab.fbm\Tex_0128_4out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[50] name=Material.031 difTex=50 texPath=ArenaForSketchfab.fbm\RCG_027out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[51] name=Material.032 difTex=51 texPath=ArenaForSketchfab.fbm\RCG_027out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[52] name=setka.png.16104 difTex=52 texPath=ArenaForSketchfab.fbm\setka.png blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.82,0.82,0.76,1) emi=(0.14,0.14,0.12,1)
+[53] name=Material.026 difTex=53 texPath=ArenaForSketchfab.fbm\GeoArena_04.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[54] name=Material.075 difTex=54 texPath=ArenaForSketchfab.fbm\GeoArena_047.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[55] name=Material.076 difTex=55 texPath=ArenaForSketchfab.fbm\FACTORY_INTRO1_PC0021out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[56] name=setka.png.16167 difTex=56 texPath=ArenaForSketchfab.fbm\setka.png blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.82,0.82,0.76,1) emi=(0.14,0.14,0.12,1)
+[57] name=setka.png.16168 difTex=57 texPath=ArenaForSketchfab.fbm\setka.png blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.82,0.82,0.76,1) emi=(0.14,0.14,0.12,1)
+[58] name=Material.260 difTex=58 texPath=ArenaForSketchfab.fbm\GeoArena_082.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[59] name=Material.174 difTex=59 texPath=ArenaForSketchfab.fbm\GeoArena_080.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[60] name=Material.173 difTex=60 texPath=ArenaForSketchfab.fbm\GeoArena_080.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[61] name=Material.240 difTex=61 texPath=ArenaForSketchfab.fbm\GeoArena_079.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[62] name=setka.png.16188 difTex=62 texPath=ArenaForSketchfab.fbm\GeoArena_079.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.82,0.82,0.76,1) emi=(0.14,0.14,0.12,1)
+[63] name=Material.241 difTex=63 texPath=ArenaForSketchfab.fbm\GeoArena_079.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[64] name=Material.070 difTex=64 texPath=ArenaForSketchfab.fbm\GeoArena_080.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[65] name=Material.019 difTex=65 texPath=ArenaForSketchfab.fbm\GEOWeap_027out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[66] name=geo_chariot_mat difTex=66 texPath=ArenaForSketchfab.fbm\geo_chariot_tex.png blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[67] name=prop_deadjedi_fem01_mat difTex=67 texPath=ArenaForSketchfab.fbm\deadjedi_fem01_tex.png blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[68] name=Material.033 difTex=68 texPath=ArenaForSketchfab.fbm\GeoArena_051.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[69] name=Material.169 difTex=69 texPath=ArenaForSketchfab.fbm\GeoArena_024.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[70] name=Material.250 difTex=70 texPath=ArenaForSketchfab.fbm\GeoArena_045.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[71] name=WorldGridMaterial.003 difTex=71 texPath=ArenaForSketchfab.fbm\RCG_015out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.82,0.82,0.76,1) emi=(0.14,0.14,0.12,1)
+[72] name=lambert1 difTex=72 texPath=ArenaForSketchfab.fbm\RCG_019out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.82,0.82,0.76,1) emi=(0.14,0.14,0.12,1)
+[73] name=Material.058 difTex=73 texPath=ArenaForSketchfab.fbm\redorange_tarp.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[74] name=Material.021 difTex=74 texPath=ArenaForSketchfab.fbm\T_ArenaPillarMetal_01_CSout.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[75] name=Material.001 difTex=75 texPath=ArenaForSketchfab.fbm\T_ArenaPillar_03_CSout.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[76] name=Material.023 difTex=76 texPath=ArenaForSketchfab.fbm\GeoArena_053.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[77] name=Material.014 difTex=77 texPath=ArenaForSketchfab.fbm\GeoArena_065.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[78] name=Material.073 difTex=78 texPath=ArenaForSketchfab.fbm\GeoArena_024.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[79] name=Helmet.001 difTex=79 texPath=ArenaForSketchfab.fbm\T_Jango_Helmet_D.png blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[80] name=Visor difTex=80 texPath=ArenaForSketchfab.fbm\T_Jango_Visor_D.png blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[81] name=Material.035 difTex=81 texPath=ArenaForSketchfab.fbm\RCG_001out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[82] name=Material.037 difTex=82 texPath=ArenaForSketchfab.fbm\GeoArena_047.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[83] name=Material.039 difTex=83 texPath=ArenaForSketchfab.fbm\GeoArena_024.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[84] name=Material.049 difTex=84 texPath=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[85] name=Material.051 difTex=85 texPath=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[86] name=Material.052 difTex=86 texPath=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[87] name=Material.053 difTex=87 texPath=ArenaForSketchfab.fbm\GeoArena_015.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[88] name=Material.024 difTex=88 texPath=ArenaForSketchfab.fbm\GeoArena_026.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[89] name=Material.042 difTex=89 texPath=ArenaForSketchfab.fbm\GEO_PRGATE_0168.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[90] name=Material.080 difTex=90 texPath=ArenaForSketchfab.fbm\GeoArena_032.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[91] name=Material.057 difTex=91 texPath=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[92] name=Material.059 difTex=92 texPath=ArenaForSketchfab.fbm\FACTORY_INTRO1_PC0016out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[93] name=Material.060 difTex=93 texPath=ArenaForSketchfab.fbm\FACTORY_INTRO1_PC0016out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[94] name=Material.062 difTex=94 texPath=ArenaForSketchfab.fbm\GeoArena_032.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[95] name=Pal_Drum_Meathook-PAL_Drum_MEAT difTex=95 texPath=ArenaForSketchfab.fbm\Pal_Drum_Meat_C.dds blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[96] name=Pal_Drum_Meathook-PAL_Drum_Floor_Bottom_Grating difTex=96 texPath=ArenaForSketchfab.fbm\floor_cracked_desatnewout.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.82,0.82,0.76,1) emi=(0.14,0.14,0.12,1)
+[97] name=Material.066 difTex=97 texPath=ArenaForSketchfab.fbm\floor_cracked_desatnewout.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.82,0.82,0.76,1) emi=(0.14,0.14,0.12,1)
+[98] name=Material.165 difTex=98 texPath=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[99] name=Material.078 difTex=99 texPath=ArenaForSketchfab.fbm\GeoArena_032.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[100] name=Material.074 difTex=100 texPath=ArenaForSketchfab.fbm\GeoArena_024.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[101] name=Material.168 difTex=101 texPath=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[102] name=Material.171 difTex=102 texPath=ArenaForSketchfab.fbm\GeoArena_045.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[103] name=Material.027 difTex=103 texPath=ArenaForSketchfab.fbm\GeoArena_045.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[104] name=Material.203 difTex=104 texPath=ArenaForSketchfab.fbm\GeoArena_053.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[105] name=Material.056 difTex=105 texPath=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[106] name=Material.249 difTex=106 texPath=ArenaForSketchfab.fbm\GeoArena_024.tga blend=0 alphaEnable=0 dif=(1,1,0.96,1) amb=(0.42,0.42,0.38,1) emi=(0.025,0.025,0.022,1)
+[107] name=NoMaterial difTex=-1 texPath= blend=1 alphaEnable=0 dif=(0.45,0.45,0.42,1) amb=(0.55,0.55,0.5,1) emi=(0.08,0.08,0.07,1)
+
+Textures:
+[0] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_033.tga graph=68419588 size=1024x1024
+[1] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_033.tga graph=68681733 size=1024x1024
+[2] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_022.tga graph=68943878 size=1024x1024
+[3] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_043.tga graph=69206023 size=256x512
+[4] name=base_color_texture path=ArenaForSketchfab.fbm\T_GEO_CaveGate_01_NAM.tga graph=69468168 size=1024x1024
+[5] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_030.tga graph=69730313 size=512x512
+[6] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_04.tga graph=69992458 size=512x512
+[7] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_032.tga graph=70254603 size=1024x1024
+[8] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_074.tga graph=96469103 size=1024x1024
+[9] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_045.tga graph=70778893 size=1024x1024
+[10] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_051.tga graph=71041038 size=1024x1024
+[11] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_045.tga graph=71303183 size=1024x1024
+[12] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_065.tga graph=71565328 size=1024x1024
+[13] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_032.tga graph=71827473 size=1024x1024
+[14] name=base_color_texture path=ArenaForSketchfab.fbm\Floor_Cracked_DesatNew.tga graph=72089618 size=512x512
+[15] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_063.tga graph=72351763 size=512x512
+[16] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_065.tga graph=72613908 size=1024x1024
+[17] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_057.tga graph=72876053 size=1024x1024
+[18] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_057.tga graph=73138198 size=1024x1024
+[19] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_032.tga graph=73400343 size=1024x1024
+[20] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_057.tga graph=73662488 size=1024x1024
+[21] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_063.tga graph=73924633 size=512x512
+[22] name=base_color_texture path=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga graph=74186778 size=512x512
+[23] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_074.tga graph=74448923 size=1024x1024
+[24] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_032.tga graph=74711068 size=1024x1024
+[25] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_065.tga graph=74973213 size=1024x1024
+[26] name=base_color_texture path=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga graph=75235358 size=512x512
+[27] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_032.tga graph=75497503 size=1024x1024
+[28] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_047.tga graph=75759648 size=1024x1024
+[29] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_065.tga graph=76021793 size=1024x1024
+[30] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_045.tga graph=76283938 size=1024x1024
+[31] name=base_color_texture path=ArenaForSketchfab.fbm\FACTORY_INTRO1_PC0011out.tga graph=76546083 size=512x512
+[32] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_038.tga graph=76808228 size=1024x512
+[33] name=base_color_texture path=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga graph=77070373 size=512x512
+[34] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_033.tga graph=77332518 size=1024x1024
+[35] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_065.tga graph=77594663 size=1024x1024
+[36] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_063.tga graph=77856808 size=512x512
+[37] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_057.tga graph=78118953 size=1024x1024
+[38] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_057.tga graph=78381098 size=1024x1024
+[39] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_057.tga graph=78643243 size=1024x1024
+[40] name=base_color_texture path=ArenaForSketchfab.fbm\RCG_027out.tga graph=78905388 size=128x128
+[41] name=base_color_texture path=ArenaForSketchfab.fbm\RCG_027out.tga graph=79167533 size=128x128
+[42] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_065.tga graph=79429678 size=1024x1024
+[43] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_024.tga graph=79691823 size=1024x1024
+[44] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_051.tga graph=79953968 size=1024x1024
+[45] name=base_color_texture path=ArenaForSketchfab.fbm\GEO_PRGATE_0202.tga graph=80216113 size=128x1024
+[46] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_047.tga graph=80478258 size=1024x1024
+[47] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_047.tga graph=80740403 size=1024x1024
+[48] name=base_color_texture path=ArenaForSketchfab.fbm\RCG_027out.tga graph=81002548 size=128x128
+[49] name=base_color_texture path=ArenaForSketchfab.fbm\Tex_0128_4out.tga graph=81264693 size=1024x1024
+[50] name=base_color_texture path=ArenaForSketchfab.fbm\RCG_027out.tga graph=81526838 size=128x128
+[51] name=base_color_texture path=ArenaForSketchfab.fbm\RCG_027out.tga graph=81788983 size=128x128
+[52] name=base_color_texture path=ArenaForSketchfab.fbm\setka.png graph=82051128 size=512x512
+[53] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_04.tga graph=82313273 size=512x512
+[54] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_047.tga graph=82575418 size=1024x1024
+[55] name=base_color_texture path=ArenaForSketchfab.fbm\FACTORY_INTRO1_PC0021out.tga graph=82837563 size=256x256
+[56] name=base_color_texture path=ArenaForSketchfab.fbm\setka.png graph=83099708 size=512x512
+[57] name=base_color_texture path=ArenaForSketchfab.fbm\setka.png graph=83361853 size=512x512
+[58] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_082.tga graph=83623998 size=128x128
+[59] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_080.tga graph=83886143 size=64x128
+[60] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_080.tga graph=84148288 size=64x128
+[61] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_079.tga graph=84410433 size=128x128
+[62] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_079.tga graph=84672578 size=128x128
+[63] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_079.tga graph=84934723 size=128x128
+[64] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_080.tga graph=85196868 size=64x128
+[65] name=base_color_texture path=ArenaForSketchfab.fbm\GEOWeap_027out.tga graph=85459013 size=512x512
+[66] name=base_color_texture path=ArenaForSketchfab.fbm\geo_chariot_tex.png graph=96993393 size=256x256
+[67] name=base_color_texture path=ArenaForSketchfab.fbm\deadjedi_fem01_tex.png graph=85983303 size=128x128
+[68] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_051.tga graph=86245448 size=1024x1024
+[69] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_024.tga graph=86507593 size=1024x1024
+[70] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_045.tga graph=86769738 size=1024x1024
+[71] name=base_color_texture path=ArenaForSketchfab.fbm\RCG_015out.tga graph=87031883 size=256x256
+[72] name=base_color_texture path=ArenaForSketchfab.fbm\RCG_019out.tga graph=87294028 size=128x256
+[73] name=base_color_texture path=ArenaForSketchfab.fbm\redorange_tarp.tga graph=87556173 size=512x512
+[74] name=base_color_texture path=ArenaForSketchfab.fbm\T_ArenaPillarMetal_01_CSout.tga graph=87818318 size=256x256
+[75] name=base_color_texture path=ArenaForSketchfab.fbm\T_ArenaPillar_03_CSout.tga graph=88080463 size=1024x1024
+[76] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_053.tga graph=88342608 size=1024x512
+[77] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_065.tga graph=88604753 size=1024x1024
+[78] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_024.tga graph=88866898 size=1024x1024
+[79] name=base_color_texture path=ArenaForSketchfab.fbm\T_Jango_Helmet_D.png graph=89129043 size=8x8
+[80] name=base_color_texture path=ArenaForSketchfab.fbm\T_Jango_Visor_D.png graph=89391188 size=8x8
+[81] name=base_color_texture path=ArenaForSketchfab.fbm\RCG_001out.tga graph=89653333 size=128x128
+[82] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_047.tga graph=89915478 size=1024x1024
+[83] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_024.tga graph=90177623 size=1024x1024
+[84] name=base_color_texture path=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga graph=90439768 size=512x512
+[85] name=base_color_texture path=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga graph=90701913 size=512x512
+[86] name=base_color_texture path=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga graph=90964058 size=512x512
+[87] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_015.tga graph=91226203 size=512x1024
+[88] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_026.tga graph=91488348 size=256x256
+[89] name=base_color_texture path=ArenaForSketchfab.fbm\GEO_PRGATE_0168.tga graph=91750493 size=512x512
+[90] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_032.tga graph=92012638 size=1024x1024
+[91] name=base_color_texture path=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga graph=92274783 size=512x512
+[92] name=base_color_texture path=ArenaForSketchfab.fbm\FACTORY_INTRO1_PC0016out.tga graph=92536928 size=512x512
+[93] name=base_color_texture path=ArenaForSketchfab.fbm\FACTORY_INTRO1_PC0016out.tga graph=92799073 size=512x512
+[94] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_032.tga graph=93061218 size=1024x1024
+[95] name=base_color_texture path=ArenaForSketchfab.fbm\Pal_Drum_Meat_C.dds graph=97517683 size=512x512
+[96] name=base_color_texture path=ArenaForSketchfab.fbm\floor_cracked_desatnewout.tga graph=98041973 size=512x512
+[97] name=base_color_texture path=ArenaForSketchfab.fbm\floor_cracked_desatnewout.tga graph=93847653 size=512x512
+[98] name=base_color_texture path=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga graph=94109798 size=512x512
+[99] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_032.tga graph=94371943 size=1024x1024
+[100] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_024.tga graph=94634088 size=1024x1024
+[101] name=base_color_texture path=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga graph=94896233 size=512x512
+[102] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_045.tga graph=95158378 size=1024x1024
+[103] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_045.tga graph=95420523 size=1024x1024
+[104] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_053.tga graph=95682668 size=1024x512
+[105] name=base_color_texture path=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga graph=95944813 size=512x512
+[106] name=base_color_texture path=ArenaForSketchfab.fbm\GeoArena_024.tga graph=96206958 size=1024x1024
+
+Meshes:
+[0] mat=0 name=Material.247 tex=ArenaForSketchfab.fbm\GeoArena_033.tga min=(-0.289328,-0.678016,-0.647825) max=(0.27961,0.443848,0.553184) size=(0.568937,1.12186,1.20101)
+[1] mat=1 name=Material.248 tex=ArenaForSketchfab.fbm\GeoArena_033.tga min=(-0.289328,-0.678016,-0.647825) max=(0.27961,0.443848,0.553184) size=(0.568937,1.12186,1.20101)
+[2] mat=2 name=Material.015 tex=ArenaForSketchfab.fbm\GeoArena_022.tga min=(-35.8285,-125.678,-8.65543) max=(116.487,86.9257,7.00908) size=(152.316,212.603,15.6645)
+[3] mat=3 name=Material.054 tex=ArenaForSketchfab.fbm\GeoArena_043.tga min=(-0.141228,-3.08612,-6.35025) max=(0.149139,3.0676,1.70762) size=(0.290367,6.15372,8.05787)
+[4] mat=4 name=Material.012 tex=ArenaForSketchfab.fbm\T_GEO_CaveGate_01_NAM.tga min=(-0.0906754,-6.11921,-10.5183) max=(0.0958252,6.09885,3.69577) size=(0.186501,12.2181,14.2141)
+[5] mat=5 name=Material.253 tex=ArenaForSketchfab.fbm\GeoArena_030.tga min=(-1.92351,-1.04476,-0.16342) max=(1.90806,0.211601,0.139819) size=(3.83157,1.25636,0.303239)
+[6] mat=6 name=Material.077 tex=ArenaForSketchfab.fbm\GeoArena_04.tga min=(-99.9814,-32.6078,-5.19694) max=(95.4722,26.8367,7.14675) size=(195.454,59.4445,12.3437)
+[7] mat=7 name=Material.204 tex=ArenaForSketchfab.fbm\GeoArena_032.tga min=(-89.5677,-29.0471,-8.83517) max=(104.032,26.8293,3.92063) size=(193.6,55.8764,12.7558)
+[8] mat=8 name=Material.079 tex=ArenaForSketchfab.fbm\GeoArena_074.tga min=(-111.718,-70.6091,-0.476731) max=(66.1242,156.636,0.838623) size=(177.842,227.246,1.31535)
+[9] mat=9 name=Material.068 tex=ArenaForSketchfab.fbm\GeoArena_045.tga min=(-17.6926,-15.0027,-3.36147) max=(17.7426,20.7017,4.0439) size=(35.4352,35.7044,7.40537)
+[10] mat=10 name=Material.030 tex=ArenaForSketchfab.fbm\GeoArena_051.tga min=(-175.912,-185.279,-36.5819) max=(180.816,217.51,29.6298) size=(356.728,402.789,66.2117)
+[11] mat=11 name=Material.071 tex=ArenaForSketchfab.fbm\GeoArena_045.tga min=(-45.1222,-100.089,-96.3143) max=(88.8047,178.012,108.743) size=(133.927,278.101,205.057)
+[12] mat=12 name=Material.013 tex=ArenaForSketchfab.fbm\GeoArena_065.tga min=(-85.2294,-84.0073,-3.56901) max=(42.7372,147.286,5.88163) size=(127.967,231.293,9.45064)
+[13] mat=13 name=Material.003 tex=ArenaForSketchfab.fbm\GeoArena_032.tga min=(-147.833,-143.667,-9.74182) max=(107.292,150.982,10.7471) size=(255.125,294.649,20.4889)
+[14] mat=14 name=Material.255 tex=ArenaForSketchfab.fbm\Floor_Cracked_DesatNew.tga min=(-16.04,-30.6328,-0.0658736) max=(27.2753,47.8613,0.0702815) size=(43.3153,78.4941,0.136155)
+[15] mat=15 name=Material.010 tex=ArenaForSketchfab.fbm\GeoArena_063.tga min=(-57.2063,-142.446,-2.88756) max=(66.7777,88.6164,1.96567) size=(123.984,231.063,4.85323)
+[16] mat=16 name=Material.016 tex=ArenaForSketchfab.fbm\GeoArena_065.tga min=(-80.6884,-131.413,-42.2282) max=(82.6452,131.413,51.1941) size=(163.334,262.826,93.4223)
+[17] mat=17 name=Material.004 tex=ArenaForSketchfab.fbm\GeoArena_057.tga min=(-76.4403,-116.811,-7.29454) max=(74.1896,114.907,8.45891) size=(150.63,231.718,15.7534)
+[18] mat=18 name=Material.011 tex=ArenaForSketchfab.fbm\GeoArena_057.tga min=(-68.9937,-5.53135,-9.2677) max=(67.2893,4.20148,6.56143) size=(136.283,9.73283,15.8291)
+[19] mat=19 name=Material.257 tex=ArenaForSketchfab.fbm\GeoArena_032.tga min=(-61.4797,-56.3446,-1.28036) max=(132.075,161.656,2.52138) size=(193.555,218.001,3.80175)
+[20] mat=20 name=Material.006 tex=ArenaForSketchfab.fbm\GeoArena_057.tga min=(-119.622,-106.333,-9.33819) max=(76.7228,129.367,6.63034) size=(196.345,235.7,15.9685)
+[21] mat=21 name=Material.005 tex=ArenaForSketchfab.fbm\GeoArena_063.tga min=(-111.739,-132.297,-2.19066) max=(84.4014,99.2267,1.55096) size=(196.14,231.524,3.74161)
+[22] mat=22 name=Material.050 tex=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga min=(-13.9342,-43.9557,-0.204308) max=(12.3215,117.011,0.0892754) size=(26.2557,160.966,0.293583)
+[23] mat=23 name=Material.002 tex=ArenaForSketchfab.fbm\GeoArena_074.tga min=(-213.472,-133.752,-2.10765) max=(136.584,137.402,0.302675) size=(350.056,271.153,2.41032)
+[24] mat=24 name=Material tex=ArenaForSketchfab.fbm\GeoArena_032.tga min=(-21.8612,-20.5799,-11.1964) max=(7.52986,20.406,12.9561) size=(29.3911,40.986,24.1525)
+[25] mat=25 name=Material.045 tex=ArenaForSketchfab.fbm\GeoArena_065.tga min=(-4.371,-19.6872,-12.5278) max=(2.91465,19.6872,13.7777) size=(7.28565,39.3743,26.3055)
+[26] mat=26 name=Material.206 tex=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga min=(-116.234,-58.5248,-0.101038) max=(36.7636,177.755,0.00390959) size=(152.998,236.28,0.104948)
+[27] mat=27 name=Material.018 tex=ArenaForSketchfab.fbm\GeoArena_032.tga min=(-9.4033,-17.9517,-18.9047) max=(11.7871,17.5831,10.8888) size=(21.1904,35.5347,29.7935)
+[28] mat=28 name=Material.020 tex=ArenaForSketchfab.fbm\GeoArena_047.tga min=(-5.97053,-14.8671,-13.2187) max=(7.36769,17.5054,12.2699) size=(13.3382,32.3724,25.4886)
+[29] mat=29 name=Material.022 tex=ArenaForSketchfab.fbm\GeoArena_065.tga min=(-4.11707,-3.95276,-5.29647) max=(3.92937,4.09259,9.59595) size=(8.04644,8.04535,14.8924)
+[30] mat=30 name=Material.063 tex=ArenaForSketchfab.fbm\GeoArena_045.tga min=(-77.5701,-20.9455,-6.96939) max=(38.7246,49.1159,9.63038) size=(116.295,70.0615,16.5998)
+[31] mat=31 name=Material.064 tex=ArenaForSketchfab.fbm\FACTORY_INTRO1_PC0011out.tga min=(-13.8864,-61.037,-9.35964) max=(12.4885,58.3686,10.7158) size=(26.3749,119.406,20.0754)
+[32] mat=32 name=Material.044 tex=ArenaForSketchfab.fbm\GeoArena_038.tga min=(-3.3949,-115.088,-0.652402) max=(2.96612,115.232,1.2658) size=(6.36102,230.319,1.9182)
+[33] mat=33 name=Material.166 tex=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga min=(-2.47382,-61.7852,0) max=(2.47382,61.7852,0) size=(4.94763,123.57,0)
+[34] mat=34 name=Material.081 tex=ArenaForSketchfab.fbm\GeoArena_033.tga min=(-0.325249,-32.3143,-0.398357) max=(0.254873,28.1632,0.738843) size=(0.580122,60.4775,1.1372)
+[35] mat=35 name=Material.069 tex=ArenaForSketchfab.fbm\GeoArena_065.tga min=(-66.9779,-112.324,-2.99221) max=(128.904,129.653,5.76705) size=(195.882,241.977,8.75926)
+[36] mat=36 name=Material.009 tex=ArenaForSketchfab.fbm\GeoArena_063.tga min=(-91.6133,-89.1179,-2.88756) max=(104.054,110.015,1.96564) size=(195.667,199.133,4.85321)
+[37] mat=37 name=Material.046 tex=ArenaForSketchfab.fbm\GeoArena_057.tga min=(-1.57064,-8.52687,-7.29452) max=(1.69961,9.14841,8.45887) size=(3.27025,17.6753,15.7534)
+[38] mat=38 name=Material.007 tex=ArenaForSketchfab.fbm\GeoArena_057.tga min=(-1.30391,-66.3548,-8.97728) max=(1.93435,49.7488,6.66281) size=(3.23826,116.104,15.6401)
+[39] mat=39 name=Material.008 tex=ArenaForSketchfab.fbm\GeoArena_057.tga min=(-1.25756,-66.2381,-9.38805) max=(2.07238,57.4901,6.44107) size=(3.32994,123.728,15.8291)
+[40] mat=40 name=Material.047 tex=ArenaForSketchfab.fbm\RCG_027out.tga min=(-61.1467,-184.159,-42.0503) max=(321.397,149.45,31.632) size=(382.544,333.609,73.6823)
+[41] mat=41 name=Material.029 tex=ArenaForSketchfab.fbm\RCG_027out.tga min=(-142.286,-216.15,-25.3489) max=(161.456,190.062,21.148) size=(303.743,406.213,46.4968)
+[42] mat=42 name=Material.202 tex=ArenaForSketchfab.fbm\GeoArena_065.tga min=(-0.838074,-0.873213,-8.21786) max=(0.829422,0.784545,10.9669) size=(1.6675,1.65776,19.1847)
+[43] mat=43 name=Material.040 tex=ArenaForSketchfab.fbm\GeoArena_024.tga min=(-2.85545,-5.10466,-6.52258) max=(2.83598,4.90667,5.19113) size=(5.69144,10.0113,11.7137)
+[44] mat=44 name=Material.038 tex=ArenaForSketchfab.fbm\GeoArena_051.tga min=(-1.8415,-7.83242,-15.699) max=(8.69181,7.78987,9.47058) size=(10.5333,15.6223,25.1696)
+[45] mat=45 name=Material.036 tex=ArenaForSketchfab.fbm\GEO_PRGATE_0202.tga min=(-0.608688,-7.18461,-14.2449) max=(0.608689,7.1842,9.35511) size=(1.21738,14.3688,23.6)
+[46] mat=46 name=Material.043 tex=ArenaForSketchfab.fbm\GeoArena_047.tga min=(-12.9209,-11.322,-7.02517) max=(29.7556,6.10421,7.46006) size=(42.6765,17.4262,14.4852)
+[47] mat=47 name=Material.041 tex=ArenaForSketchfab.fbm\GeoArena_047.tga min=(-12.9071,-6.11026,-7.03055) max=(29.7707,11.3159,7.45464) size=(42.6778,17.4262,14.4852)
+[48] mat=48 name=Material.055 tex=ArenaForSketchfab.fbm\RCG_027out.tga min=(-20.7797,-46.757,-10.6185) max=(29.1685,61.2443,9.44458) size=(49.9482,108.001,20.063)
+[49] mat=49 name=Material.061 tex=ArenaForSketchfab.fbm\Tex_0128_4out.tga min=(-182.647,-201.199,-21.1954) max=(187.902,201.16,18.8409) size=(370.548,402.359,40.0363)
+[50] mat=50 name=Material.031 tex=ArenaForSketchfab.fbm\RCG_027out.tga min=(-178.23,-216.513,-25.0454) max=(192.109,180.305,26.0071) size=(370.339,396.818,51.0525)
+[51] mat=51 name=Material.032 tex=ArenaForSketchfab.fbm\RCG_027out.tga min=(-25.3899,-88.5348,-21.7574) max=(27.44,109.893,22.6013) size=(52.8299,198.427,44.3587)
+[52] mat=52 name=setka.png.16104 tex=ArenaForSketchfab.fbm\setka.png min=(-2.2288,-5.04931,-5.30928) max=(3.03817,5.46067,4.17444) size=(5.26697,10.51,9.48372)
+[53] mat=53 name=Material.026 tex=ArenaForSketchfab.fbm\GeoArena_04.tga min=(-33.7519,-55.4151,-0.97324) max=(35.3342,66.3479,2.08433) size=(69.0861,121.763,3.05757)
+[54] mat=54 name=Material.075 tex=ArenaForSketchfab.fbm\GeoArena_047.tga min=(-24.9177,-15.3264,-4.55991) max=(27.1612,7.00086,4.33102) size=(52.0789,22.3272,8.89093)
+[55] mat=55 name=Material.076 tex=ArenaForSketchfab.fbm\FACTORY_INTRO1_PC0021out.tga min=(-24.4971,-15.1567,-0.318222) max=(27.0167,6.98316,0.191376) size=(51.5138,22.1399,0.509598)
+[56] mat=107 name=NoMaterial tex= min=(-0.41214,-0.380337,-0.829005) max=(2.20982,0.271557,0.402734) size=(2.62196,0.651894,1.23174)
+[57] mat=56 name=setka.png.16167 tex=ArenaForSketchfab.fbm\setka.png min=(-1.74536,-2.51447,-0.0219178) max=(2.50696,1.65871,0.00294924) size=(4.25232,4.17318,0.0248671)
+[58] mat=57 name=setka.png.16168 tex=ArenaForSketchfab.fbm\setka.png min=(-2.07613,-1.31586,-0.000232697) max=(1.91725,2.63728,0.000120163) size=(3.99338,3.95315,0.000352859)
+[59] mat=58 name=Material.260 tex=ArenaForSketchfab.fbm\GeoArena_082.tga min=(-0.447367,-0.271744,-0.435232) max=(0.531382,0.211266,0.347872) size=(0.978748,0.483009,0.783105)
+[60] mat=59 name=Material.174 tex=ArenaForSketchfab.fbm\GeoArena_080.tga min=(-1.51258,-0.92189,-2.38991) max=(1.43796,1.10404,2.03337) size=(2.95054,2.02593,4.42328)
+[61] mat=60 name=Material.173 tex=ArenaForSketchfab.fbm\GeoArena_080.tga min=(-1.6061,-0.921684,-2.36256) max=(1.46187,1.1097,2.03436) size=(3.06797,2.03138,4.39692)
+[62] mat=61 name=Material.240 tex=ArenaForSketchfab.fbm\GeoArena_079.tga min=(-2.97357,-4.63873,-1.43051e-06) max=(4.34441,2.67924,-1.43051e-06) size=(7.31798,7.31798,0)
+[63] mat=62 name=setka.png.16188 tex=ArenaForSketchfab.fbm\GeoArena_079.tga min=(-4.31411,-4.14608,-9.53674e-07) max=(5.68898,5.85701,-9.53674e-07) size=(10.0031,10.0031,0)
+[64] mat=63 name=Material.241 tex=ArenaForSketchfab.fbm\GeoArena_079.tga min=(-4.28387,-4.76179,-0.107135) max=(4.59386,4.11819,0.0117211) size=(8.87773,8.87998,0.118856)
+[65] mat=64 name=Material.070 tex=ArenaForSketchfab.fbm\GeoArena_080.tga min=(-2.90955,-1.99874,-2.66853) max=(3.14567,2.0714,2.64674) size=(6.05522,4.07014,5.31527)
+[66] mat=16 name=Material.016 tex=ArenaForSketchfab.fbm\GeoArena_065.tga min=(-82.1501,-132.97,-42.2997) max=(80.5968,132.567,51.1226) size=(162.747,265.537,93.4223)
+[67] mat=65 name=Material.019 tex=ArenaForSketchfab.fbm\GEOWeap_027out.tga min=(-9.71014e-06,-11.2525,-8.62866) max=(1.3178e-05,11.2522,9.23424) size=(2.28882e-05,22.5047,17.8629)
+[68] mat=66 name=geo_chariot_mat tex=ArenaForSketchfab.fbm\geo_chariot_tex.png min=(-2.46671,-4.62771,-2.85118) max=(1.97403,3.35629,2.02534) size=(4.44074,7.984,4.87652)
+[69] mat=67 name=prop_deadjedi_fem01_mat tex=ArenaForSketchfab.fbm\deadjedi_fem01_tex.png min=(-0.468977,-0.639147,-0.146306) max=(0.816809,0.49426,0.0493317) size=(1.28579,1.13341,0.195637)
+[70] mat=68 name=Material.033 tex=ArenaForSketchfab.fbm\GeoArena_051.tga min=(-76.6351,-110.514,-4.25578) max=(74.8589,153.602,6.71932) size=(151.494,264.116,10.9751)
+[71] mat=69 name=Material.169 tex=ArenaForSketchfab.fbm\GeoArena_024.tga min=(-2.68739,-4.73423,-4.9443) max=(2.55885,4.07157,5.46618) size=(5.24624,8.8058,10.4105)
+[72] mat=70 name=Material.250 tex=ArenaForSketchfab.fbm\GeoArena_045.tga min=(-4.65515,-4.60968,-5.17714) max=(16.403,4.37677,5.35977) size=(21.0581,8.98646,10.5369)
+[73] mat=71 name=WorldGridMaterial.003 tex=ArenaForSketchfab.fbm\RCG_015out.tga min=(-23.6961,-14.2597,-2.76206) max=(17.4408,7.68478,0.875759) size=(41.1369,21.9445,3.63782)
+[74] mat=72 name=lambert1 tex=ArenaForSketchfab.fbm\RCG_019out.tga min=(-13.4127,-11.9605,-9.58893) max=(13.1979,12.4152,11.9195) size=(26.6106,24.3758,21.5084)
+[75] mat=73 name=Material.058 tex=ArenaForSketchfab.fbm\redorange_tarp.tga min=(-12.032,-7.04884,-2.74528) max=(5.06,18.791,3.49908) size=(17.092,25.8398,6.24435)
+[76] mat=72 name=lambert1 tex=ArenaForSketchfab.fbm\RCG_019out.tga min=(-1.10641,-0.552528,-7.68293) max=(0.740036,1.20651,8.36187) size=(1.84644,1.75904,16.0448)
+[77] mat=74 name=Material.021 tex=ArenaForSketchfab.fbm\T_ArenaPillarMetal_01_CSout.tga min=(-0.206696,-0.636772,-3.86492) max=(0.181087,0.791954,3.79969) size=(0.387783,1.42873,7.6646)
+[78] mat=75 name=Material.001 tex=ArenaForSketchfab.fbm\T_ArenaPillar_03_CSout.tga min=(-1.69475,-1.67039,-3.97856) max=(1.63671,1.661,14.8302) size=(3.33146,3.3314,18.8087)
+[79] mat=74 name=Material.021 tex=ArenaForSketchfab.fbm\T_ArenaPillarMetal_01_CSout.tga min=(-0.206715,-0.636772,-3.86492) max=(0.181068,0.791954,3.79969) size=(0.387783,1.42873,7.6646)
+[80] mat=75 name=Material.001 tex=ArenaForSketchfab.fbm\T_ArenaPillar_03_CSout.tga min=(-1.69475,-1.67039,-3.97856) max=(1.63671,1.661,14.8302) size=(3.33146,3.3314,18.8087)
+[81] mat=74 name=Material.021 tex=ArenaForSketchfab.fbm\T_ArenaPillarMetal_01_CSout.tga min=(-0.206721,-0.636787,-3.86491) max=(0.181055,0.791939,3.79969) size=(0.387776,1.42873,7.6646)
+[82] mat=75 name=Material.001 tex=ArenaForSketchfab.fbm\T_ArenaPillar_03_CSout.tga min=(-1.69475,-1.67044,-3.97856) max=(1.63671,1.66096,14.8302) size=(3.33146,3.3314,18.8087)
+[83] mat=74 name=Material.021 tex=ArenaForSketchfab.fbm\T_ArenaPillarMetal_01_CSout.tga min=(-0.20673,-0.636772,-3.86492) max=(0.181053,0.791954,3.79969) size=(0.387783,1.42873,7.6646)
+[84] mat=75 name=Material.001 tex=ArenaForSketchfab.fbm\T_ArenaPillar_03_CSout.tga min=(-1.69475,-1.67039,-3.97856) max=(1.63672,1.661,14.8302) size=(3.33146,3.3314,18.8087)
+[85] mat=76 name=Material.023 tex=ArenaForSketchfab.fbm\GeoArena_053.tga min=(-3.48488,-3.24215,-0.274284) max=(3.12502,3.38201,0.262841) size=(6.6099,6.62416,0.537125)
+[86] mat=36 name=Material.009 tex=ArenaForSketchfab.fbm\GeoArena_063.tga min=(-3.29602,-0.903811,-2.88756) max=(3.37321,0.54102,1.96564) size=(6.66923,1.44483,4.8532)
+[87] mat=77 name=Material.014 tex=ArenaForSketchfab.fbm\GeoArena_065.tga min=(-3.05396,-0.763653,-1.54531) max=(2.43042,1.64429,4.3588) size=(5.48438,2.40794,5.90411)
+[88] mat=78 name=Material.073 tex=ArenaForSketchfab.fbm\GeoArena_024.tga min=(-11.732,-2.09021,-6.19756) max=(7.93804,3.15327,6.24563) size=(19.67,5.24348,12.4432)
+[89] mat=79 name=Helmet.001 tex=ArenaForSketchfab.fbm\T_Jango_Helmet_D.png min=(-0.192863,-0.138803,-0.154654) max=(0.246025,0.132074,0.16962) size=(0.438889,0.270877,0.324274)
+[90] mat=80 name=Visor tex=ArenaForSketchfab.fbm\T_Jango_Visor_D.png min=(-0.129539,-0.104788,-0.0861926) max=(0.126137,0.0456641,0.138214) size=(0.255676,0.150452,0.224407)
+[91] mat=81 name=Material.035 tex=ArenaForSketchfab.fbm\RCG_001out.tga min=(-2.96885,-8.77188,-3.0304) max=(3.67971,9.41213,4.8788) size=(6.64856,18.184,7.9092)
+[92] mat=82 name=Material.037 tex=ArenaForSketchfab.fbm\GeoArena_047.tga min=(-3.40785,-9.55006,-3.58572) max=(4.7632,9.55621,5.68055) size=(8.17105,19.1063,9.26627)
+[93] mat=83 name=Material.039 tex=ArenaForSketchfab.fbm\GeoArena_024.tga min=(-0.947451,-7.67613,-15.6103) max=(1.15368,7.85115,9.4951) size=(2.10114,15.5273,25.1054)
+[94] mat=84 name=Material.049 tex=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga min=(-15.4561,-13.0271,-0.155121) max=(52.7512,64.8975,0.581718) size=(68.2073,77.9246,0.736839)
+[95] mat=85 name=Material.051 tex=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga min=(-4.39023,-37.0559,-0.977654) max=(4.90871,40.976,0.411827) size=(9.29894,78.0319,1.38948)
+[96] mat=86 name=Material.052 tex=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga min=(-23.3606,-27.0649,-0.370235) max=(26.0977,32.1118,0.288113) size=(49.4582,59.1767,0.658348)
+[97] mat=87 name=Material.053 tex=ArenaForSketchfab.fbm\GeoArena_015.tga min=(-3.40317,-3.46729,-19.1628) max=(3.43789,3.37379,23.2457) size=(6.84106,6.84109,42.4085)
+[98] mat=87 name=Material.053 tex=ArenaForSketchfab.fbm\GeoArena_015.tga min=(-3.4032,-3.46735,-19.1628) max=(3.43785,3.37374,23.2457) size=(6.84106,6.84109,42.4085)
+[99] mat=88 name=Material.024 tex=ArenaForSketchfab.fbm\GeoArena_026.tga min=(-7.93295,-7.40491,-2.36063) max=(7.3982,6.04527,2.47679) size=(15.3311,13.4502,4.83742)
+[100] mat=89 name=Material.042 tex=ArenaForSketchfab.fbm\GEO_PRGATE_0168.tga min=(-7.37729,-7.23241,-6.1125) max=(8.06548,7.06437,6.63835) size=(15.4428,14.2968,12.7508)
+[101] mat=88 name=Material.024 tex=ArenaForSketchfab.fbm\GeoArena_026.tga min=(-7.93294,-7.40491,-2.36062) max=(7.3982,6.04527,2.4768) size=(15.3311,13.4502,4.83742)
+[102] mat=89 name=Material.042 tex=ArenaForSketchfab.fbm\GEO_PRGATE_0168.tga min=(-7.37729,-7.23233,-6.1125) max=(8.06549,7.06445,6.63835) size=(15.4428,14.2968,12.7508)
+[103] mat=73 name=Material.058 tex=ArenaForSketchfab.fbm\redorange_tarp.tga min=(-18.1102,-16.2214,-1.80894) max=(11.844,12.8247,2.32351) size=(29.9542,29.0461,4.13246)
+[104] mat=87 name=Material.053 tex=ArenaForSketchfab.fbm\GeoArena_015.tga min=(-3.40321,-3.46727,-19.1628) max=(3.43784,3.37382,23.2457) size=(6.84106,6.84109,42.4085)
+[105] mat=87 name=Material.053 tex=ArenaForSketchfab.fbm\GeoArena_015.tga min=(-3.40308,-3.46725,-19.1628) max=(3.43797,3.37383,23.2457) size=(6.84106,6.84109,42.4085)
+[106] mat=87 name=Material.053 tex=ArenaForSketchfab.fbm\GeoArena_015.tga min=(-3.40308,-3.46724,-19.1628) max=(3.43797,3.37385,23.2458) size=(6.84106,6.84109,42.4085)
+[107] mat=87 name=Material.053 tex=ArenaForSketchfab.fbm\GeoArena_015.tga min=(-3.40308,-3.46725,-19.1628) max=(3.43797,3.37383,23.2458) size=(6.84106,6.84109,42.4085)
+[108] mat=87 name=Material.053 tex=ArenaForSketchfab.fbm\GeoArena_015.tga min=(-3.40318,-3.46729,-19.1628) max=(3.43788,3.3738,23.2457) size=(6.84106,6.84109,42.4085)
+[109] mat=87 name=Material.053 tex=ArenaForSketchfab.fbm\GeoArena_015.tga min=(-3.40311,-3.46737,-19.1628) max=(3.43795,3.37373,23.2458) size=(6.84106,6.84109,42.4085)
+[110] mat=87 name=Material.053 tex=ArenaForSketchfab.fbm\GeoArena_015.tga min=(-3.40321,-3.46731,-19.1628) max=(3.43784,3.37378,23.2458) size=(6.84106,6.84109,42.4085)
+[111] mat=29 name=Material.022 tex=ArenaForSketchfab.fbm\GeoArena_065.tga min=(-4.11707,-3.95276,-5.29647) max=(3.92937,4.09259,9.59595) size=(8.04644,8.04535,14.8924)
+[112] mat=76 name=Material.023 tex=ArenaForSketchfab.fbm\GeoArena_053.tga min=(-3.48488,-3.24215,-0.274284) max=(3.12502,3.38201,0.262841) size=(6.6099,6.62416,0.537125)
+[113] mat=90 name=Material.080 tex=ArenaForSketchfab.fbm\GeoArena_032.tga min=(-8.95532,-12.5269,-3.95595) max=(8.78269,3.55688,4.09569) size=(17.738,16.0838,8.05164)
+[114] mat=91 name=Material.057 tex=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga min=(-21.4901,-18.306,-0.331642) max=(19.8835,16.784,0.405422) size=(41.3737,35.09,0.737064)
+[115] mat=92 name=Material.059 tex=ArenaForSketchfab.fbm\FACTORY_INTRO1_PC0016out.tga min=(-4.68294,-50.462,-1.88849) max=(4.00092,86.004,0.371918) size=(8.68385,136.466,2.26041)
+[116] mat=93 name=Material.060 tex=ArenaForSketchfab.fbm\FACTORY_INTRO1_PC0016out.tga min=(-69.0303,-5.20222,-0.203793) max=(69.8118,3.24615,0.0326119) size=(138.842,8.44838,0.236404)
+[117] mat=94 name=Material.062 tex=ArenaForSketchfab.fbm\GeoArena_032.tga min=(-11.9738,-18.8472,-13.1078) max=(8.41249,16.7395,15.0539) size=(20.3863,35.5867,28.1617)
+[118] mat=95 name=Pal_Drum_Meathook-PAL_Drum_MEAT tex=ArenaForSketchfab.fbm\Pal_Drum_Meat_C.dds min=(-0.547653,-4.05851,-1.21391) max=(0.547729,3.8167,1.20394) size=(1.09538,7.87521,2.41785)
+[119] mat=96 name=Pal_Drum_Meathook-PAL_Drum_Floor_Bottom_Grating tex=ArenaForSketchfab.fbm\floor_cracked_desatnewout.tga min=(-0.48819,-4.93015,-1.84659) max=(0.41333,5.13245,1.16555) size=(0.90152,10.0626,3.01214)
+[120] mat=2 name=Material.015 tex=ArenaForSketchfab.fbm\GeoArena_022.tga min=(-3.12843,-73.865,-8.65544) max=(3.61836,67.6251,7.00908) size=(6.7468,141.49,15.6645)
+[121] mat=97 name=Material.066 tex=ArenaForSketchfab.fbm\floor_cracked_desatnewout.tga min=(-18.6607,-15.621,-0.0087204) max=(18.1119,15.0903,0.0324326) size=(36.7726,30.7113,0.041153)
+[122] mat=98 name=Material.165 tex=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga min=(-49.971,-107.867,-0.560268) max=(38.5685,106.497,1.53863) size=(88.5395,214.364,2.0989)
+[123] mat=99 name=Material.078 tex=ArenaForSketchfab.fbm\GeoArena_032.tga min=(-165.673,-203.474,-40.9249) max=(162.839,166.969,36.586) size=(328.512,370.443,77.5109)
+[124] mat=78 name=Material.073 tex=ArenaForSketchfab.fbm\GeoArena_024.tga min=(-11.732,-2.09021,-6.19756) max=(7.93803,3.15327,6.24563) size=(19.67,5.24348,12.4432)
+[125] mat=100 name=Material.074 tex=ArenaForSketchfab.fbm\GeoArena_024.tga min=(-65.1583,-93.8207,-5.41764) max=(73.7808,141.875,5.6667) size=(138.939,235.695,11.0843)
+[126] mat=95 name=Pal_Drum_Meathook-PAL_Drum_MEAT tex=ArenaForSketchfab.fbm\Pal_Drum_Meat_C.dds min=(-0.331726,-4.0726,-1.21391) max=(0.32119,3.82252,1.20394) size=(0.652916,7.89512,2.41785)
+[127] mat=96 name=Pal_Drum_Meathook-PAL_Drum_Floor_Bottom_Grating tex=ArenaForSketchfab.fbm\floor_cracked_desatnewout.tga min=(-0.189735,-4.94078,-1.84659) max=(0.167894,5.14248,1.16555) size=(0.35763,10.0833,3.01214)
+[128] mat=101 name=Material.168 tex=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga min=(-29.3872,-16.313,-0.000274658) max=(114.701,11.4327,0.00189209) size=(144.088,27.7457,0.00216675)
+[129] mat=102 name=Material.171 tex=ArenaForSketchfab.fbm\GeoArena_045.tga min=(-5.35368,-4.68635,-5.21845) max=(15.8204,4.31546,5.31846) size=(21.174,9.0018,10.5369)
+[130] mat=78 name=Material.073 tex=ArenaForSketchfab.fbm\GeoArena_024.tga min=(-11.732,-2.09018,-6.19756) max=(7.93804,3.1533,6.24563) size=(19.67,5.24348,12.4432)
+[131] mat=103 name=Material.027 tex=ArenaForSketchfab.fbm\GeoArena_045.tga min=(-185.924,-80.2484,-112.346) max=(230.774,115.892,106.791) size=(416.698,196.141,219.137)
+[132] mat=42 name=Material.202 tex=ArenaForSketchfab.fbm\GeoArena_065.tga min=(-0.838074,-0.873213,-8.21786) max=(0.829422,0.784545,10.9669) size=(1.6675,1.65776,19.1847)
+[133] mat=104 name=Material.203 tex=ArenaForSketchfab.fbm\GeoArena_053.tga min=(-33.8836,-66.0374,-4.74805) max=(44.2017,89.5749,4.97061) size=(78.0853,155.612,9.71866)
+[134] mat=11 name=Material.071 tex=ArenaForSketchfab.fbm\GeoArena_045.tga min=(-176.042,-298.787,-113.896) max=(307.133,138.532,100.926) size=(483.174,437.318,214.822)
+[135] mat=105 name=Material.056 tex=ArenaForSketchfab.fbm\FACTORY_G_PC0056out.tga min=(-91.5353,-139.301,-31.5676) max=(12.8472,145.309,23.3737) size=(104.383,284.61,54.9413)
+[136] mat=61 name=Material.240 tex=ArenaForSketchfab.fbm\GeoArena_079.tga min=(-2.97357,-4.63873,-1.43051e-06) max=(4.34441,2.67924,-1.43051e-06) size=(7.31798,7.31798,0)
+[137] mat=61 name=Material.240 tex=ArenaForSketchfab.fbm\GeoArena_079.tga min=(-2.97357,-4.63873,-1.43051e-06) max=(4.34441,2.67924,-1.43051e-06) size=(7.31798,7.31798,0)
+[138] mat=61 name=Material.240 tex=ArenaForSketchfab.fbm\GeoArena_079.tga min=(-2.97357,-4.63873,-1.43051e-06) max=(4.34441,2.67924,-1.43051e-06) size=(7.31798,7.31798,0)
+[139] mat=106 name=Material.249 tex=ArenaForSketchfab.fbm\GeoArena_024.tga min=(-4.65515,-4.52183,-5.13416) max=(0.753014,4.29519,5.35898) size=(5.40816,8.81701,10.4931)
+[140] mat=100 name=Material.074 tex=ArenaForSketchfab.fbm\GeoArena_024.tga min=(-3.58905,-2.85976,-5.70273) max=(6.9497,3.35135,4.82196) size=(10.5388,6.21111,10.5247)
